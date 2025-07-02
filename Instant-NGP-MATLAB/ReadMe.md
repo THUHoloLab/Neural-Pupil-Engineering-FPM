@@ -9,7 +9,7 @@ Hash encoding is a compact way to represent high-dimensional data (like 3D coord
 - Multi-resolution grid initialization
 - Spatial hashing with gradient computation
 - Hash table lookups with linear interpolation
-- Example usage for encoding 3D coordinates
+- Example usage for encoding 2D coordinates
 
 ## Installation & Usage
 run InstantNGP_fit_image_2025.m
