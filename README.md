@@ -1,1 +1,1 @@
-# Digital Pupil Engineering for off-axis Fourier Ptychography
+# Neural Pupil Engineering for off-axis Fourier Ptychography
