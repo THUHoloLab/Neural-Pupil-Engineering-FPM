@@ -4,7 +4,6 @@ This is the MATLAB code for the implementation of neural pupil engineering FPM (
 <br>
 NePE-FPM engineers the pupil function using an implicit neural representation with multi-resolution hash encoding, enabling continuous, smooth shifting of the pupil function without introducing additional physical parameters. <br>
 <br>
-<br>
 By optimizing a feature-domain loss function, NePE-FPM adaptively filters Fourier-space information from low-resolution measurements, achieving accurate off-axis reconstruction without modeling off-axis propagation.<br>
 <br>
 
