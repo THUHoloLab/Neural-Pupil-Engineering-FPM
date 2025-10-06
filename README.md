@@ -19,7 +19,7 @@ This implementation provides both conventional and neural-enhanced reconstructio
 **Available Methods:**
 
 - **Conventional FPM with Feature-Domain Loss**: 
-  Execute `cuFPM_recon_FDFPM.m` for traditional FPM reconstruction utilizing feature-domain optimization criteria.
+  Execute `cuFPM_recon_FDFPM.m` for traditional FPM reconstruction utilizing [[feature-domain](https://doi.org/10.1002/advs.202413975)] optimization criteria.
 
 - **Neural Pupil Engineering FPM (NePE-FPM)**:
   Run `cuFPM_recon_NePE.m` to perform reconstruction with our novel neural-enhanced pupil engineering approach.
