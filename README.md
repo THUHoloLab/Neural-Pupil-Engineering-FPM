@@ -27,6 +27,21 @@ This implementation provides both conventional and neural-enhanced reconstructio
 **Code Availability:**
 Example implementations and sample datasets are accessible in the [NePE-FPM directory](https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/tree/main/NePE-FPM).
 
+### Single Image Reconstruction using MATLAB-NGP
+
+For researchers interested in neural graphics primitives implementation, we provide **MATLAB-NGP** - a MATLAB adaptation of NVIDIA's Instant Neural Graphics Primitives (Instant-NGP). 
+
+This implementation enables efficient single image reconstruction through coordinate-based neural representations:
+
+**Key Features:**
+- Multi-resolution hash encoding for compact feature representation
+- GPU-accelerated inference and training
+- Modular architecture compatible with MATLAB's deep learning framework
+
+**Implementation Details:**
+The complete MATLAB-NGP framework is available in the [Instant-NGP-MATLAB directory](https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/tree/main/Instant-NGP-MATLAB), including example usage and pre-trained models for rapid deployment.
+
+
 
 ## Key Features
 
