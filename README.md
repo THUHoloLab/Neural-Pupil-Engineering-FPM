@@ -102,6 +102,8 @@ The system follows a hybrid MATLAB-CUDA architecture for efficient forward and b
 
 <div align = 'center'>
 <img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/flow_chart.png" width = "800" alt="Pipeline for CUDA-based reconstruction" align = center />
+<br>
+<em>Pipeline for CUDA-based reconstruction</em>
 </div><br>
 <br>
 
@@ -116,6 +118,7 @@ We test NePE-FPM on a published dataset aims to address the phase curvature [[Co
 We test NePE-FPM on a our priviate [[dataset](https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/tree/main/NePE-FPM)], where a edge-FOV is cropped for reconstruction. The results are compared against FD-FPM algorithms. 
 <div align = 'center'>
 <img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/results.jpg" width = "1000" alt="" align = center />
+<br>
 </div><br>
 
 
