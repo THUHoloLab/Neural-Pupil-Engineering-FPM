@@ -1,5 +1,11 @@
 <!-- TOC --><a name="neural-pupil-engineering-for-off-axis-fourier-ptychography"></a>
 # Neural Pupil Engineering for off-axis Fourier Ptychography
+
+Authors: **[Shuhe Zhang](https://github.com/ShuheZhang-MUMC)**, and **[Liangcai Cao](https://scholar.google.com/citations?user=FYYb_-wAAAAJ&hl=en)**
+
+:school: *[**HoloLab**](http://www.holoddd.com/), Tsinghua University*
+
+
 <br>
 This is the MATLAB code for the implementation of neural pupil engineering FPM (NePE-FPM), an optimization framework for FPM reconstruction for off-axis areas. <br>
 <br>
