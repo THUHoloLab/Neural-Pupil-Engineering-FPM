@@ -27,6 +27,7 @@ The system employs two parallel learning streams:
 Both streams converge through a differentiable FPM forward model, enabling joint optimization of neural representations and optical parameters for high-quality phase retrieval and image reconstruction.
 
 The system follows a hybrid MATLAB-CUDA architecture for efficient forward and backward computations.
+
 <div align = 'center'>
-<img src = "[https://github.com/THUHoloLab/FAIRY/blob/main/Demo/resource/eHIO.png](https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/flow_chart.png)" width = "500" alt="" align = center />
+<img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/flow_chart.png" width = "500" alt="" align = center />
 </div><br>
