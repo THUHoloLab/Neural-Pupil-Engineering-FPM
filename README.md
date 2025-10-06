@@ -31,3 +31,11 @@ The system follows a hybrid MATLAB-CUDA architecture for efficient forward and b
 <div align = 'center'>
 <img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/flow_chart.png" width = "800" alt="" align = center />
 </div><br>
+
+## Comparison
+[[Codes]](https://opticapublishing.figshare.com/articles/journal_contribution/Supplementary_document_for_Addressing_phase-curvature_in_Fourier_ptychography_-_5810780_pdf/19762861?file=52755638)
+
+<div align = 'center'>
+<img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/public_data.png" width = "800" alt="" align = center />
+</div><br>
+
