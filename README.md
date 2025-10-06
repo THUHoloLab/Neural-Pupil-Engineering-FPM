@@ -16,7 +16,7 @@ By optimizing a feature-domain loss function, NePE-FPM adaptively filters Fourie
 - **Dual Learning Strategy**: Simultaneously optimizes neural hash encodings and physical wavefront parameters
 - **Hybrid Architecture**: MATLAB for control flow with CUDA-accelerated kernels for efficient computation  
 - **Differentiable Physics**: End-to-end differentiable pipeline enabling gradient-based optimization
-- **InstantNGP Integration**: Adapts multi-resolution hash encoding for computational microscopy
+- **Off-axis Reconstruction**: Reconstruction of off-axis FOV using FPM can be achieved with high-speed, and high-quality. 
 
 ## How It Works
 
