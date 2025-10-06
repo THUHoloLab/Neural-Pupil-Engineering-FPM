@@ -44,15 +44,15 @@ This implementation provides both conventional and neural-enhanced reconstructio
 - **Neural Pupil Engineering FPM (NePE-FPM)**:
   Run `cuFPM_recon_NePE.m` to perform reconstruction with our novel neural-enhanced pupil engineering approach.
 
+**Code Availability:**
+Example implementations and sample datasets are accessible in the [NePE-FPM directory](https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/tree/main/NePE-FPM).
+<br>
+
 <div align = 'center'>
 <img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/testNePE.gif" width = "600" alt="" align = center />
 <br>
 <em>NePF-FPM Reconstruction: Left - sample, Right - pupil function</em>
 </div>
-<br>
-
-**Code Availability:**
-Example implementations and sample datasets are accessible in the [NePE-FPM directory](https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/tree/main/NePE-FPM).
 <br>
 
 <!-- TOC --><a name="fitting-a-single-image-using-matlab-ngp"></a>
@@ -99,7 +99,7 @@ Both streams converge through a differentiable FPM forward model, enabling joint
 The system follows a hybrid MATLAB-CUDA architecture for efficient forward and backward computations.
 
 <div align = 'center'>
-<img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/flow_chart.png" width = "800" alt="" align = center />
+<img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/flow_chart.png" width = "800" alt="Pipeline for CUDA-based reconstruction" align = center />
 </div><br>
 <br>
 
