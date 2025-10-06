@@ -1,3 +1,13 @@
+<!-- TOC --><a name="neural-pupil-engineering-for-off-axis-fourier-ptychography"></a>
+# Neural Pupil Engineering for off-axis Fourier Ptychography
+<br>
+This is the MATLAB code for the implementation of neural pupil engineering FPM (NePE-FPM), an optimization framework for FPM reconstruction for off-axis areas. <br>
+<br>
+NePE-FPM engineers the pupil function using an implicit neural representation with multi-resolution hash encoding, enabling continuous, smooth shifting of the pupil function without introducing additional physical parameters. <br>
+<br>
+By optimizing a feature-domain loss function, NePE-FPM adaptively filters Fourier-space information from low-resolution measurements, achieving accurate off-axis reconstruction without modeling off-axis propagation.<br>
+<br>
+
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [Neural Pupil Engineering for off-axis Fourier Ptychography](#neural-pupil-engineering-for-off-axis-fourier-ptychography)
@@ -11,16 +21,6 @@
    * [License and Citation](#license-and-citation)
 
 <!-- TOC end -->
-
-<!-- TOC --><a name="neural-pupil-engineering-for-off-axis-fourier-ptychography"></a>
-# Neural Pupil Engineering for off-axis Fourier Ptychography
-<br>
-This is the MATLAB code for the implementation of neural pupil engineering FPM (NePE-FPM), an optimization framework for FPM reconstruction for off-axis areas. <br>
-<br>
-NePE-FPM engineers the pupil function using an implicit neural representation with multi-resolution hash encoding, enabling continuous, smooth shifting of the pupil function without introducing additional physical parameters. <br>
-<br>
-By optimizing a feature-domain loss function, NePE-FPM adaptively filters Fourier-space information from low-resolution measurements, achieving accurate off-axis reconstruction without modeling off-axis propagation.<br>
-<br>
 
 <!-- TOC --><a name="news"></a>
 ## News
