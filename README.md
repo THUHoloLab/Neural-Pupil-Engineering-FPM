@@ -19,7 +19,7 @@ This implementation provides both conventional and neural-enhanced reconstructio
 **Available Methods:**
 
 - **Conventional FPM with Feature-Domain Loss**: 
-  Execute `cuFPM_recon_FDFPM.m` for traditional FPM reconstruction utilizing [[feature-domain](https://doi.org/10.1002/advs.202413975)] optimization criteria.
+  Execute `cuFPM_recon_FDFPM.m` for traditional FPM reconstruction utilizing [feature-domain](https://doi.org/10.1002/advs.202413975) optimization criteria.
 
 - **Neural Pupil Engineering FPM (NePE-FPM)**:
   Run `cuFPM_recon_NePE.m` to perform reconstruction with our novel neural-enhanced pupil engineering approach.
@@ -29,7 +29,7 @@ Example implementations and sample datasets are accessible in the [NePE-FPM dire
 
 ### Single Image Reconstruction using MATLAB-NGP
 
-For researchers interested in neural graphics primitives implementation, we provide **MATLAB-NGP** - a MATLAB adaptation of NVIDIA's Instant Neural Graphics Primitives ([[Instant-NGP](https://github.com/NVlabs/instant-ngp)]). 
+For researchers interested in neural graphics primitives implementation, we provide **MATLAB-NGP** - a MATLAB adaptation of NVIDIA's Instant Neural Graphics Primitives ([Instant-NGP](https://github.com/NVlabs/instant-ngp)). 
 
 This implementation enables efficient single image reconstruction through coordinate-based neural representations:
 
