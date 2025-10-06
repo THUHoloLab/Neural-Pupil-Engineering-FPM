@@ -115,7 +115,7 @@ We test NePE-FPM on a published dataset aims to address the phase curvature [[Co
 <img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/public_data.png" width = "1000" alt="" align = center />
 </div><br>
 
-We test NePE-FPM on a our priviate [[dataset](https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/tree/main/NePE-FPM)], where a edge-FOV is cropped for reconstruction. The results are compared against FD-FPM algorithms. 
+We test NePE-FPM on a our priviate [dataset](https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/tree/main/NePE-FPM), where a edge-FOV is cropped for reconstruction. The results are compared against FD-FPM algorithms. 
 <div align = 'center'>
 <img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/results.jpg" width = "1000" alt="" align = center />
 <br>
