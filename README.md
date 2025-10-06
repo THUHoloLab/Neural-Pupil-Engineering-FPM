@@ -45,7 +45,7 @@ This implementation provides both conventional and neural-enhanced reconstructio
   Run `cuFPM_recon_NePE.m` to perform reconstruction with our novel neural-enhanced pupil engineering approach.
 
 <div align = 'center'>
-<img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/testNePE.gif" width = "800" alt="" align = center />
+<img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/testNePE.gif" width = "600" alt="" align = center />
 <br>
 <em>NePF-FPM Reconstruction: Left - sample, Right - pupil function</em>
 </div>
@@ -70,7 +70,7 @@ This implementation enables efficient single image reconstruction through coordi
 The complete MATLAB-NGP framework is available in the [Instant-NGP-MATLAB directory](https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/tree/main/Instant-NGP-MATLAB), including example usage and pre-trained models for rapid deployment.
 
 <div align = 'center'>
-<img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/test_hash32_4_2048.gif" width = "800" alt="Comparison of MLP-based vs Instant-NGP reconstruction" align = center />
+<img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/test_hash32_4_2048.gif" width = "600" alt="Comparison of MLP-based vs Instant-NGP reconstruction" align = center />
 <br>
 <em>Comparative Reconstruction Performance: Left - Traditional MLP-based approach, Right - Instant-NGP accelerated reconstruction</em>
 </div>
