@@ -25,7 +25,7 @@ This implementation provides both conventional and neural-enhanced reconstructio
   Run `cuFPM_recon_NePE.m` to perform reconstruction with our novel neural-enhanced pupil engineering approach.
 
 <div align = 'center'>
-<img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/testNePE.gif.gif" width = "800" alt="Comparison of MLP-based vs Instant-NGP reconstruction" align = center />
+<img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/testNePE.gif.gif" width = "800" alt="" align = center />
 <br>
 <em>NePF-FPM Reconstruction: Left - sample, Right - pupil function</em>
 </div>
