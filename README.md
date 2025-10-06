@@ -49,6 +49,7 @@ This implementation provides both conventional and neural-enhanced reconstructio
 <br>
 <em>NePF-FPM Reconstruction: Left - sample, Right - pupil function</em>
 </div>
+<br>
 
 **Code Availability:**
 Example implementations and sample datasets are accessible in the [NePE-FPM directory](https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/tree/main/NePE-FPM).
