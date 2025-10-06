@@ -29,5 +29,5 @@ Both streams converge through a differentiable FPM forward model, enabling joint
 The system follows a hybrid MATLAB-CUDA architecture for efficient forward and backward computations.
 
 <div align = 'center'>
-<img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/flow_chart.png" width = "500" alt="" align = center />
+<img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/flow_chart.png" width = "800" alt="" align = center />
 </div><br>
