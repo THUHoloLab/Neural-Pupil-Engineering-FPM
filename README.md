@@ -35,7 +35,7 @@ This implementation provides both conventional and neural-enhanced reconstructio
 Example implementations and sample datasets are accessible in the [NePE-FPM directory](https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/tree/main/NePE-FPM).
 <br>
 
-### Single Image Reconstruction using MATLAB-NGP
+### Fitting a single image using MATLAB-NGP
 
 For researchers interested in neural graphics primitives implementation, we provide **MATLAB-NGP** - a MATLAB adaptation of NVIDIA's Instant Neural Graphics Primitives ([Instant-NGP](https://github.com/NVlabs/instant-ngp)). 
 
