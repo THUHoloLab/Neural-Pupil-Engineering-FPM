@@ -29,7 +29,7 @@ Example implementations and sample datasets are accessible in the [NePE-FPM dire
 
 ### Single Image Reconstruction using MATLAB-NGP
 
-For researchers interested in neural graphics primitives implementation, we provide **MATLAB-NGP** - a MATLAB adaptation of NVIDIA's Instant Neural Graphics Primitives (Instant-NGP). 
+For researchers interested in neural graphics primitives implementation, we provide **MATLAB-NGP** - a MATLAB adaptation of NVIDIA's Instant Neural Graphics Primitives ([[Instant-NGP](https://github.com/NVlabs/instant-ngp)]). 
 
 This implementation enables efficient single image reconstruction through coordinate-based neural representations:
 
