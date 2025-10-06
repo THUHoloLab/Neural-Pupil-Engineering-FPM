@@ -21,6 +21,7 @@ By optimizing a feature-domain loss function, NePE-FPM adaptively filters Fourie
    * [License and Citation](#license-and-citation)
 
 <!-- TOC end -->
+<br>
 
 <!-- TOC --><a name="news"></a>
 ## News
