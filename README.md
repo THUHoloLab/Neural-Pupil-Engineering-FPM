@@ -11,6 +11,23 @@ By optimizing a feature-domain loss function, NePE-FPM adaptively filters Fourie
 - **2025/09/10:**  :sparkles: Our paper has been accepted by _**Optica**_! <br>
 - **2024/07/28:** 🔥 We released our MATLAB codes! <br>
 
+## How to use ?
+### Neural Pupil Engineering FPM (NePE-FPM) Reconstruction
+
+This implementation provides both conventional and neural-enhanced reconstruction methods for Fourier Ptychographic Microscopy:
+
+**Available Methods:**
+
+- **Conventional FPM with Feature-Domain Loss**: 
+  Execute `cuFPM_recon_FDFPM.m` for traditional FPM reconstruction utilizing feature-domain optimization criteria.
+
+- **Neural Pupil Engineering FPM (NePE-FPM)**:
+  Run `cuFPM_recon_NePE.m` to perform reconstruction with our novel neural-enhanced pupil engineering approach.
+
+**Code Availability:**
+Example implementations and sample datasets are accessible in the [NePE-FPM directory](https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/tree/main/NePE-FPM).
+
+
 ## Key Features
 
 - **Dual Learning Strategy**: Simultaneously optimizes neural hash encodings and physical wavefront parameters
@@ -33,13 +50,13 @@ The system follows a hybrid MATLAB-CUDA architecture for efficient forward and b
 </div><br>
 
 ## Comparison
-We test NePE-FPM on a published dataset aims to address the phase curvature [[Codes]](https://opticapublishing.figshare.com/articles/journal_contribution/Supplementary_document_for_Addressing_phase-curvature_in_Fourier_ptychography_-_5810780_pdf/19762861?file=52755638) [[paper]](https://doi.org/10.1364/OE.458657). The results are compared against other FPM algorithms. 
+We test NePE-FPM on a published dataset aims to address the phase curvature [[Codes](https://opticapublishing.figshare.com/articles/journal_contribution/Supplementary_document_for_Addressing_phase-curvature_in_Fourier_ptychography_-_5810780_pdf/19762861?file=52755638)] [[paper](https://doi.org/10.1364/OE.458657)]. The results are compared against other FPM algorithms. 
 
 <div align = 'center'>
 <img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/public_data.png" width = "1000" alt="" align = center />
 </div><br>
 
-We test NePE-FPM on a our priviate [[dataset]](https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/tree/main/NePE-FPM), where a edge-FOV is cropped for reconstruction. The results are compared against FD-FPM algorithms. 
+We test NePE-FPM on a our priviate [[dataset](https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/tree/main/NePE-FPM)], where a edge-FOV is cropped for reconstruction. The results are compared against FD-FPM algorithms. 
 <div align = 'center'>
 <img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/results.jpg" width = "1000" alt="" align = center />
 </div><br>
