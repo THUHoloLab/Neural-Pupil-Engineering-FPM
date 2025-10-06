@@ -8,6 +8,8 @@ NePE-FPM engineers the pupil function using an implicit neural representation wi
 By optimizing a feature-domain loss function, NePE-FPM adaptively filters Fourier-space information from low-resolution measurements, achieving accurate off-axis reconstruction without modeling off-axis propagation.<br>
 <br>
 
+📝 **Note**: CUDA FPM reconstruction requires even-numbered image dimensions due to optimized FFT shift operations.
+
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [Neural Pupil Engineering for off-axis Fourier Ptychography](#neural-pupil-engineering-for-off-axis-fourier-ptychography)
