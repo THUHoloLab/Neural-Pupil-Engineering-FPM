@@ -41,6 +41,12 @@ This implementation enables efficient single image reconstruction through coordi
 **Implementation Details:**
 The complete MATLAB-NGP framework is available in the [Instant-NGP-MATLAB directory](https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/tree/main/Instant-NGP-MATLAB), including example usage and pre-trained models for rapid deployment.
 
+<div align = 'center'>
+<img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/test_hash32_4_2048.gif" width = "800" alt="Comparison of MLP-based vs Instant-NGP reconstruction" align = center />
+<br>
+<em>Comparative Reconstruction Performance: Left - Traditional MLP-based approach, Right - Instant-NGP accelerated reconstruction</em>
+</div>
+
 
 
 ## Key Features
