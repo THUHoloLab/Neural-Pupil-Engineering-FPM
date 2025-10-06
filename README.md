@@ -92,3 +92,22 @@ We test NePE-FPM on a our priviate [[dataset](https://github.com/THUHoloLab/Neur
 <img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/results.jpg" width = "1000" alt="" align = center />
 </div><br>
 
+
+## License and Citation
+
+This framework is licensed under the MIT License. Please see `LICENSE` for details.
+
+If you use it in your research, we would appreciate a citation via
+```bibtex
+@article{zhang2025whole,
+  title={Whole-field, high-resolution Fourier ptychography with neural pupil engineering},
+  author={Zhang, Shuhe and Cao, Liangcai},
+  journal={Optica},
+  volume={},
+  number={},
+  pages={},
+  year={2025},
+  publisher={Optica Publishing Group},
+  doi={10.1364/OPTICA.575065}
+}
+```
