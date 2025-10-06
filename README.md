@@ -10,6 +10,7 @@ By optimizing a feature-domain loss function, NePE-FPM adaptively filters Fourie
 ## News
 - **2025/09/10:**  :sparkles: Our paper has been accepted by _**Optica**_! <br>
 - **2024/07/28:** 🔥 We released our MATLAB codes! <br>
+<br>
 
 ## How to use ?
 ### Neural Pupil Engineering FPM (NePE-FPM) Reconstruction
@@ -32,6 +33,7 @@ This implementation provides both conventional and neural-enhanced reconstructio
 
 **Code Availability:**
 Example implementations and sample datasets are accessible in the [NePE-FPM directory](https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/tree/main/NePE-FPM).
+<br>
 
 ### Single Image Reconstruction using MATLAB-NGP
 
@@ -52,7 +54,7 @@ The complete MATLAB-NGP framework is available in the [Instant-NGP-MATLAB direct
 <br>
 <em>Comparative Reconstruction Performance: Left - Traditional MLP-based approach, Right - Instant-NGP accelerated reconstruction</em>
 </div>
-
+<br>
 
 
 ## Key Features
@@ -61,6 +63,7 @@ The complete MATLAB-NGP framework is available in the [Instant-NGP-MATLAB direct
 - **Hybrid Architecture**: MATLAB for control flow with CUDA-accelerated kernels for efficient computation  
 - **Differentiable Physics**: End-to-end differentiable pipeline enabling gradient-based optimization
 - **Off-axis Reconstruction**: Reconstruction of off-axis FOV using FPM can be achieved with high-speed, and high-quality. 
+<br>
 
 ## How It Works
 
@@ -75,6 +78,7 @@ The system follows a hybrid MATLAB-CUDA architecture for efficient forward and b
 <div align = 'center'>
 <img src = "https://github.com/THUHoloLab/Neural-Pupil-Engineering-FPM/blob/main/resources/flow_chart.png" width = "800" alt="" align = center />
 </div><br>
+<br>
 
 ## Comparison
 We test NePE-FPM on a published dataset aims to address the phase curvature [[Codes](https://opticapublishing.figshare.com/articles/journal_contribution/Supplementary_document_for_Addressing_phase-curvature_in_Fourier_ptychography_-_5810780_pdf/19762861?file=52755638)] [[paper](https://doi.org/10.1364/OE.458657)]. The results are compared against other FPM algorithms. 
