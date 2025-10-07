@@ -33,6 +33,7 @@ By optimizing a feature-domain loss function, NePE-FPM adaptively filters Fourie
 
 <!-- TOC --><a name="news"></a>
 ## News
+- **2025/10/07:**  🔥: The manuscript is now online at [here](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-10-1615&id=581947) <br>
 - **2025/09/10:**  :sparkles: Our paper has been accepted by _**Optica**_! <br>
 - **2024/07/28:** 🔥 We released our MATLAB codes! <br>
 <br>
