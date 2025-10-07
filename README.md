@@ -139,9 +139,9 @@ If you use it in your research, we would appreciate a citation via
   title={Whole-field, high-resolution Fourier ptychography with neural pupil engineering},
   author={Zhang, Shuhe and Cao, Liangcai},
   journal={Optica},
-  volume={},
-  number={},
-  pages={},
+  volume={12},
+  number={1},
+  pages={1615-1624},
   year={2025},
   publisher={Optica Publishing Group},
   doi={10.1364/OPTICA.575065}
