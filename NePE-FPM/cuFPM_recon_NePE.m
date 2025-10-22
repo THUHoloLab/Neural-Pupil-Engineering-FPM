@@ -65,7 +65,7 @@ pupil_net = network.NGP("base_res",32,...
                         "feature_dim",4,...
                         "log2_hashmap_size",19,...
                         "bounding_box",[min(fx_CCD(:)),min(fy_CCD(:));...
-                                        max(fy_CCD(:)),max(fy_CCD(:))]);
+                                        max(fx_CCD(:)),max(fy_CCD(:))]);
 
 pupil_coor = gpuArray(single([fx_CCD(:),fy_CCD(:)]));
 pupil_coor = dlarray(pupil_coor,"BC");
@@ -187,3 +187,4 @@ loss = mean(abs(wavefront2 - Pupil0).^2,'all');
 [dldw1] = dlgradient(loss,pupil_net.Learnables);
 
 end
+
