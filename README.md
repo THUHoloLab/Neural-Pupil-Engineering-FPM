@@ -15,7 +15,7 @@ By optimizing a feature-domain loss function, NePE-FPM adaptively filters Fourie
 <br>
 
 📝 **Note 1**: CUDA FPM reconstruction requires even-numbered image dimensions due to optimized FFT shift operations. <br>
-📝 **Note 2**: The code requires **MATLAB version at least 2024a** to ensure the deep.DifferentiableFunction class exist.
+📝 **Note 2**: The code requires **MATLAB version at least 2024a** to ensure the `deep.DifferentiableFunction` class exist.
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
