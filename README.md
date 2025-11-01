@@ -14,7 +14,7 @@ NePE-FPM engineers the pupil function using an implicit neural representation wi
 By optimizing a feature-domain loss function, NePE-FPM adaptively filters Fourier-space information from low-resolution measurements, achieving accurate off-axis reconstruction without modeling off-axis propagation.<br>
 <br>
 
-📝 **Note 1**: CUDA FPM reconstruction requires even-numbered image dimensions due to optimized FFT shift operations.
+📝 **Note 1**: CUDA FPM reconstruction requires even-numbered image dimensions due to optimized FFT shift operations. <br>
 📝 **Note 2**: The code requires **MATLAB version at least 2024a** to ensure the deep.DifferentiableFunction class exist.
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
